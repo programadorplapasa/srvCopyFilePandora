@@ -1,0 +1,15 @@
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\bin\Debug\dllCopyFile.dll.config
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\bin\Debug\dllCopyFile.dll
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\bin\Debug\dllCopyFile.pdb
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\bin\Debug\EntityFramework.dll
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\bin\Debug\EntityFramework.xml
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\obj\Debug\dllCopyFile.csproj.AssemblyReference.cache
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\obj\Debug\dllCopyFile.csproj.CoreCompileInputs.cache
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\obj\Debug\dllCopyFile.csproj.CopyComplete
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\obj\Debug\dllCopyFile.dll
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\obj\Debug\dllCopyFile.pdb
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\bin\Debug\Hermes.dll
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\bin\Debug\Pandora.dll
+C:\Users\jmedina\source\repos\wSrvCopyFilePandora\dllCopyFile\bin\Debug\Admin.dll
