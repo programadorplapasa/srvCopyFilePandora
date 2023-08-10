@@ -53,6 +53,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>G:\Mi unidad\Desarrollo\componentes\Pandora.dll</HintPath>
     </Reference>
+    <Reference Include="Sap.Data.Hana.v4.5, Version=1.0.120.0, Culture=neutral, PublicKeyToken=0326b8ea63db4bc4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>G:\Unidades compartidas\Sistemas_Actualizaciones\Fuentes\Pandora\wAppPandora\wAppPandora\bin\Sap.Data.Hana.v4.5.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Configuration" />
@@ -85,21 +89,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Globals.cs" />
+    <Compile Include="Clases\Globals.cs" />
+    <Compile Include="Clases\GlobalsFiles.cs" />
+    <Compile Include="Clases\GlobalsSQL.cs" />
     <Compile Include="Modelos\AnexoModel.cs" />
     <Compile Include="Modelos\DetObjetos.cs" />
     <Compile Include="Modelos\LogFileModel.cs" />
+    <Compile Include="Modelos\ObjRespuesta.cs" />
     <Compile Include="ProjectInstaller.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="ProjectInstaller.Designer.cs">
       <DependentUpon>ProjectInstaller.cs</DependentUpon>
     </Compile>
-    <Compile Include="Service1.cs">
+    <Compile Include="srvCopyFIle.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Service1.Designer.cs">
-      <DependentUpon>Service1.cs</DependentUpon>
+    <Compile Include="srvCopyFIle.Designer.cs">
+      <DependentUpon>srvCopyFIle.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -108,14 +115,16 @@
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="packages.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="ProjectInstaller.resx">
       <DependentUpon>ProjectInstaller.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Service1.resx">
-      <DependentUpon>Service1.cs</DependentUpon>
+    <EmbeddedResource Include="srvCopyFIle.resx">
+      <DependentUpon>srvCopyFIle.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

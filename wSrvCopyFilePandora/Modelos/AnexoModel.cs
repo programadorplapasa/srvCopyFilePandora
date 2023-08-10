@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dllCopyFile.Modelos
+namespace wSrvCopyFilePandora.Modelos
 {
     public class AnexoModel
     {
@@ -16,9 +16,10 @@ namespace dllCopyFile.Modelos
         public string CTxNombreArchivo { get; set; }
         public string CTxExtension { get; set; }
         public string CTxRutaDestino { get; set; }
+        public string CTpOrigen { get; set; }
     }
 
-    public class AnexoCopido
+    public class AnexoCopiado
     {
         public int NNuIdReferncia { get; set; }
         public string CCiAplicacion { get; set; }

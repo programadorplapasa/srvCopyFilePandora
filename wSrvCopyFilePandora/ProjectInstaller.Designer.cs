@@ -33,15 +33,16 @@
             // 
             // serviceProcessInstaller1
             // 
-            this.serviceProcessInstaller1.Account = System.ServiceProcess.ServiceAccount.LocalService;
+            this.serviceProcessInstaller1.Account = System.ServiceProcess.ServiceAccount.LocalSystem;
             this.serviceProcessInstaller1.Password = null;
             this.serviceProcessInstaller1.Username = null;
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.Description = "Servicio para copiar los Anexos";
-            this.serviceInstaller1.DisplayName = "Plapasa CopyFile";
-            this.serviceInstaller1.ServiceName = "PlapasaCopyFile";
+            this.serviceInstaller1.Description = "Copia los archivos anexos, generados desde el documento origen (Oferta, Ordenes, " +
+    "etc) genera una copia hacia la carpeta predeterminada en las configuraciones ";
+            this.serviceInstaller1.DisplayName = "PlapasaDevops - Copia archivos anexos";
+            this.serviceInstaller1.ServiceName = "svcCopyFilesPandora";
             this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             // 
             // ProjectInstaller

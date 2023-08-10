@@ -17,7 +17,7 @@ namespace wSrvCopyFilePandora
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new srvCopyFIle()
             };
             ServiceBase.Run(ServicesToRun);
         }

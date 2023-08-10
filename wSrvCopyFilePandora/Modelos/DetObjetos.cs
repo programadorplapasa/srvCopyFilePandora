@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dllCopyFile.Modelos
+namespace wSrvCopyFilePandora.Modelos
 {
     public class DetObjetos
     {
