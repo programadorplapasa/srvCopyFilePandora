@@ -124,9 +124,6 @@ C:\Users\jmedina\source\repos\wSrvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\
 C:\Users\jmedina\source\repos\wSrvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\wSrvCopyFilePandora.csproj.CopyComplete
 C:\Users\jmedina\source\repos\wSrvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\wSrvCopyFilePandora.exe
 C:\Users\jmedina\source\repos\wSrvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\wSrvCopyFilePandora.pdb
-C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Debug\wSrvCopyFilePandora.exe.config
-C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Debug\wSrvCopyFilePandora.exe
-C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Debug\wSrvCopyFilePandora.pdb
 C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Debug\Microsoft.Win32.Primitives.dll
 C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Debug\netstandard.dll
 C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Debug\System.AppContext.dll
@@ -241,7 +238,6 @@ C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Deb
 C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Debug\System.Security.Cryptography.ProtectedData.xml
 C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Debug\System.Security.Permissions.xml
 C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Debug\System.Security.Principal.Windows.xml
-C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\wSrvCopyFilePandora.exe.config
 C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\Interop.SAPbobsCOM.dll
 C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\wSrvCopyFilePandora.csproj.ResolveComReference.cache
 C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\wSrvCopyFilePandora.ProjectInstaller.resources
@@ -249,5 +245,10 @@ C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Deb
 C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\wSrvCopyFilePandora.csproj.GenerateResource.cache
 C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\wSrvCopyFilePandora.csproj.CoreCompileInputs.cache
 C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\wSrvCopyFilePandora.csproj.CopyComplete
-C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\wSrvCopyFilePandora.exe
-C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\wSrvCopyFilePandora.pdb
+C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Debug\svcCopyFilePandora.installer.exe.config
+C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Debug\svcCopyFilePandora.installer.exe
+C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\bin\Debug\svcCopyFilePandora.installer.pdb
+C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\svcCopyFilePandora.installer.exe.config
+C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\svcCopyFilePandora.installer.exe
+C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\svcCopyFilePandora.installer.pdb
+C:\Users\jmedina\Documents\GitHub\srvCopyFilePandora\wSrvCopyFilePandora\obj\Debug\wSrvCopyFilePandora.csprojAssemblyReference.cache

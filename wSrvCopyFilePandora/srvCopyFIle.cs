@@ -171,7 +171,8 @@ namespace wSrvCopyFilePandora
                     }
                     else
                     {
-                        GlobalsFiles.WriteLogFile(objRespCreateTxt.MensajeAdic, "No existen registros");
+                        strLogEntry = string.Concat(strLogEntry, System.DateTime.Now, "No existen registros", Environment.NewLine);
+                        //GlobalsFiles.WriteLogFile(objRespCreateTxt.MensajeAdic, "No existen registros");
                         blBandera = false;
                         return;
                     }
